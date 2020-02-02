@@ -1,0 +1,14 @@
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/entity/AccountEntity.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/resources/HealthResource.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/model/Transaction.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/model/Account.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/manager/TransactionManager.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/model/Health.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/resources/CustomerResource.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/model/Customer.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/TransactionsApplication.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/resources/TransactionResource.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/manager/AccountManager.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/health/BasicHealthCheck.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/manager/CustomerManager.java
+/Users/adas/Documents/Transactions/src/main/java/com/revolut/common/data/entity/CustomerEntity.java
